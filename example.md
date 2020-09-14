@@ -1,3 +1,3 @@
-# Git Gud
+# Git Gud: A Git Exercise
 
-### So Gud
+### So Gud?
